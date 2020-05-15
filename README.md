@@ -18,8 +18,8 @@
 ## All of My Projects
 
 ### Working with Code
-* [Markdown Home Page](https://badgerbadgerbadger.com)
-* [My bio on the class repo](https://badgerbadgerbadger.com)
+* [Markdown Home Page](https://pavelbidenko2018.github.io)
+* [My bio on the class repo](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/pavelbidenko2018.md)
 * [Hack My Future](./README.md)
 
 ### Incremental Development
